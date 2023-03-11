@@ -12,4 +12,4 @@ Siga as redes sociais:
 
 - [Instagram](https://instagram.com/pedroafabri)
 - [TikTok](https://tiktok.com/@pedroafabri)
-- [YouTube]([https:](https://www.youtube.com/channel/UC3URg3o0RRFlKsgPrsW9bPQ))
+- [YouTube](https://www.youtube.com/channel/UC3URg3o0RRFlKsgPrsW9bPQ)
