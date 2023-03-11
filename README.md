@@ -4,12 +4,12 @@ Repositório para armazenar os exercícios de lógica passados semanalmente no g
 
 Para receber exercícios de lógica semanalmente, entre no [GRUPO DO WHATSAPP](https://chat.whatsapp.com/BZr348rHtlfLfKfGhXezcj)
 
-Siga as redes sociais:
+## Conheça a única plataforma de cursos que você irá precisar:
 
 [Fabri Academy](https://fabri.academy)
 
-[Instagram](https://instagram.com/pedroafabri)
+Siga as redes sociais:
 
-[TikTok](https://tiktok.com/@pedroafabri)
-
-[YouTube]([https:](https://www.youtube.com/channel/UC3URg3o0RRFlKsgPrsW9bPQ))
+- [Instagram](https://instagram.com/pedroafabri)
+- [TikTok](https://tiktok.com/@pedroafabri)
+- [YouTube]([https:](https://www.youtube.com/channel/UC3URg3o0RRFlKsgPrsW9bPQ))
