@@ -1,4 +1,4 @@
-# Exercícios de Lógica JS
+# Exercícios de Lógica
 
 Repositório para armazenar os exercícios de lógica passados semanalmente no grupo do WhatsApp do Fabri Academy!
 
