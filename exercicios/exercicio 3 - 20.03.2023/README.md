@@ -1,4 +1,4 @@
-# Exercício #2 - 13.03.2023
+# Exercício #3 - 20.03.2023
 
 - [Live de Correção](https://www.youtube.com/watch?v=Zu2js1OIJCQ)
 - [Enunciado](enunciado.pdf)
