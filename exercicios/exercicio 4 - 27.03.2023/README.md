@@ -1,6 +1,6 @@
 # Exercício #4 - 27.03.2023
 
-- [Live de Correção](https://www.youtube.com/watch?v=Zu2js1OIJCQ)
+- [Correção](https://fabri.academy/)
 - [Enunciado](enunciado.pdf)
 - [Fluxogramas da Solução](fluxogramas.pdf)
 - [Solução](solucao.js)
