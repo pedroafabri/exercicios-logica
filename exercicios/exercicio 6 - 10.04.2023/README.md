@@ -1,4 +1,4 @@
-# Exercício #6 - 16.04.2023
+# Exercício #6 - 10.04.2023
 
 - [Correção](https://fabri.academy/)
 - [Enunciado](enunciado.pdf)
